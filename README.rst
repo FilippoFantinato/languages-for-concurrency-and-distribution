@@ -9,3 +9,6 @@ For the first part I had to solve two theoretical exercises:
 * show that the semantics of Hennessy-Milner's logic discussed during the lectures is well defined, that is, when we consider least and greatest fixed points, the corresponding functions are monotone on a complete lattice. Discuss whether and how negation might be included in the logic.
 
 while for the second part I decided to make a study both theoretical and practical on the actor model.
+
+Note that the exercise solutions are not present here.
+
